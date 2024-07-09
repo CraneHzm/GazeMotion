@@ -1,0 +1,3 @@
+python main_gimo_pose_forecasting.py --data_dir /scratch/hu/pose_forecast/gimo_gazemotion/ --ckpt ./checkpoints/gimo/ --cuda_idx cuda:6 --joint_number 23 --gaze_node_n 23 --use_gaze 1 --gamma 0.9 --epoch 100 --validation_epoch 10;
+
+python main_gimo_pose_forecasting.py --data_dir /scratch/hu/pose_forecast/gimo_gazemotion/ --ckpt ./checkpoints/gimo/ --cuda_idx cuda:6 --joint_number 23 --gaze_node_n 23 --use_gaze 1 --gamma 0.9 --epoch 100 --validation_epoch 10 --is_eval;

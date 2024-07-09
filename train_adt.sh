@@ -1,0 +1,3 @@
+python main_adt_pose_forecasting.py --data_dir /scratch/hu/pose_forecast/adt_gazemotion/ --ckpt ./checkpoints/adt/ --cuda_idx cuda:7 --joint_number 21 --use_gaze 1 --train_sample_rate 2 --gamma 0.95 --epoch 100 --validation_epoch 10;
+
+python main_adt_pose_forecasting.py --data_dir /scratch/hu/pose_forecast/adt_gazemotion/ --ckpt ./checkpoints/adt/ --cuda_idx cuda:7 --joint_number 21 --use_gaze 1 --train_sample_rate 2 --gamma 0.95 --epoch 100 --validation_epoch 10 --is_eval;
