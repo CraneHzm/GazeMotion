@@ -14,7 +14,7 @@ Step 3: It is optional but highly recommended to set 'data_path' in 'dataset_vis
 ## Citations
 
 ```bibtex
-@inproceedings{hu24_gazemotion,
+@inproceedings{hu24gazemotion,
 	title={GazeMotion: Gaze-guided Human Motion Forecasting},
 	author={Hu, Zhiming and Schmitt, Syn and Haeufle, Daniel and Bulling, Andreas},
 	booktitle={Proceedings of the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems},	
