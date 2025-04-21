@@ -13,7 +13,7 @@ These results show the significant information content available in eye gaze for
 ```
 
 
-## Environments:
+## Environment:
 Ubuntu 22.04
 python 3.8+
 pytorch 1.8.1
@@ -23,7 +23,7 @@ cudatoolkit 11.1
 ## Usage:
 Step 1: Create the environment
 ```
-conda env create -f ./environments/gazemotion.yaml -n gazemotion
+conda env create -f ./environment/gazemotion.yaml -n gazemotion
 conda activate gazemotion
 ```
 
