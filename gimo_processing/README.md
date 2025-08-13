@@ -15,8 +15,9 @@ Step 3: It is optional but highly recommended to set 'data_path' in 'dataset_vis
 @inproceedings{hu24gazemotion,
 	title={GazeMotion: Gaze-guided Human Motion Forecasting},
 	author={Hu, Zhiming and Schmitt, Syn and Haeufle, Daniel and Bulling, Andreas},
-	booktitle={Proceedings of the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems},	
-	year={2024}}
+	booktitle={Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems},	
+	year={2024},
+	pages={13017--13022}}
 	
 @inproceedings{zheng2022gimo,
 	title={GIMO: Gaze-informed human motion prediction in context},
